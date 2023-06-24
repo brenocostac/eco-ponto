@@ -60,4 +60,7 @@ footer {
   .fixed-top {
     position: relative;
   }
+  .fixed-bottom {
+    position: relative;
+  }
 }
